@@ -26,11 +26,11 @@ For assignment4, I used 2 datasets, 201601 and 201608, to finish the three diffe
   |||||||||
 
 Paper 1 (ANOVA):
-![ANOVA](ANOVA.png)
+![ANOVA](anova.png)
 
 Paper 2 (Multiple Regression):
 ![MULTIPLE REGRESSION](multiple.png)
 
 Paper 3 (Logistic Regression)
-![L1](leukemia2.png)
+![L1](leukemia2.PNG)
 ![L2](leukemia.png)
