@@ -1,0 +1,14 @@
+{
+    "lines.linewidth": 2.0,
+    "axes.edgecolor": "#bcbcbc",
+    "axes.facecolor": "#dddddd",
+    "patch.linewidth": 1.0,
+    "legend.fancybox": false,
+    "font.size" : 18,
+    "legend.fontsize" : "medium",
+    "axes.labelsize": "large",
+    "axes.grid": true,
+    "grid.color": "#ffffff",
+    "patch.edgecolor": "#ffffff",
+    "axes.titlesize": "x-large"
+}
