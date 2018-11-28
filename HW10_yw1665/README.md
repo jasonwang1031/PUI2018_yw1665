@@ -1,0 +1,1 @@
+I finished all the parts by myself.
